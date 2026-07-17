@@ -99,25 +99,7 @@ A full-stack personal finance management platform that empowers users to take co
 
 🔗 **Repository:** https://github.com/Necromancer1-p/SmartFinanceManager
 
----
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Necromancer1-p&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer1-p&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
