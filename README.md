@@ -2,24 +2,28 @@
 
 <div align="center">
 
-### **Full-Stack Developer • AI Enthusiast • Problem Solver**
+### Full-Stack Developer • AI Enthusiast • Problem Solver
 
 *"Learning. Building. Improving."*
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Applications;Full-Stack+Developer;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 I'm a Computer Science student passionate about building impactful software and exploring the intersection of **Artificial Intelligence** and **Full-Stack Development**.
 
-I enjoy solving real-world problems, designing scalable applications, and continuously learning new technologies. Whether it's developing modern web applications or experimenting with AI-powered solutions, I love turning ideas into products.
+I enjoy transforming ideas into scalable applications that solve real-world problems. From designing modern web experiences to developing robust backend systems, I'm always looking for opportunities to learn, build, and improve.
 
-* 🌱 Currently exploring **AI Integration**, **System Design**, and **Scalable Backend Development**
-* 💡 Interested in **Full-Stack Development**, **Artificial Intelligence**, and **Cloud Technologies**
-* 💻 Strong believer in learning by building
-* 🎯 Goal: Build products that solve meaningful real-world problems
+* 🚀 Passionate about Full-Stack Development & AI
+* 💡 Interested in scalable software architecture and modern web technologies
+* 🧠 Continuously learning by building real-world projects
+* 🎯 Aspiring Software Engineer focused on creating meaningful products
 
 ---
 
@@ -28,7 +32,7 @@ I enjoy solving real-world problems, designing scalable applications, and contin
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,python,ts" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
 </p>
 
 ### Frontend
@@ -49,7 +53,7 @@ I enjoy solving real-world problems, designing scalable applications, and contin
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-### Tools & Technologies
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
@@ -57,25 +61,51 @@ I enjoy solving real-world problems, designing scalable applications, and contin
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 💬 ReplyOne
+## 💬 ReplyOne
 
-> An AI-powered communication platform focused on generating smarter, faster, and context-aware responses.
+An AI-powered communication platform designed to streamline digital conversations by generating intelligent, context-aware responses. Built with a focus on speed, usability, and modern web technologies, ReplyOne helps users craft natural, relevant replies while reducing the time spent on repetitive communication.
 
-### 💰 Smart Finance Manager
+**Highlights**
 
-> A modern finance management application that helps users track expenses, manage budgets, and gain financial insights.
+* 🤖 AI-assisted context-aware reply generation
+* ⚡ Responsive and intuitive user experience
+* 🔐 Secure backend architecture
+* 🏗️ Scalable full-stack application design
 
-> 🚀 More exciting projects are on the way...
+**Tech Stack**
+
+`Next.js` • `TypeScript` • `Node.js` • `Express.js` • `Redis`
+
+🔗 **Repository:** https://github.com/Necromancer1-p/ReplyOne
 
 ---
 
-# 📊 GitHub Analytics
+## 💰 Smart Finance Manager
+
+A full-stack personal finance management platform that empowers users to take control of their finances through intuitive expense tracking, budget management, and insightful financial analytics. Designed with a modern user experience and scalable architecture, the application simplifies everyday financial planning while providing meaningful insights into spending habits.
+
+**Highlights**
+
+* 💸 Track income, expenses, and financial transactions
+* 📊 Interactive dashboards with financial analytics
+* 🎯 Budget planning and expense categorization
+* 🔒 Secure and scalable full-stack architecture
+
+**Tech Stack**
+
+`Next.js` • `TypeScript` • `Node.js` • `Express.js` • `MongoDB`
+
+🔗 **Repository:** https://github.com/Necromancer1-p/SmartFinanceManager
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
@@ -84,26 +114,6 @@ I enjoy solving real-world problems, designing scalable applications, and contin
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
 
 </p>
 
@@ -118,22 +128,21 @@ I enjoy solving real-world problems, designing scalable applications, and contin
 </a>
 
 <a href="mailto:parthgupta20005@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💭 Developer Philosophy
+## 💭 Philosophy
 
-```text
-while(alive)
+```cpp
+while (alive)
 {
     Learn();
     Build();
     Improve();
-    Repeat();
 }
 ```
 
@@ -141,10 +150,8 @@ while(alive)
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for stopping by!
 
 *"Code with curiosity. Build with purpose."*
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" />
 
 </div>
