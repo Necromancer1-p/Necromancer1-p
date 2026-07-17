@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student passionate about building impactful software and exploring the intersection of **Artificial Intelligence** and **Full-Stack Development**.
+I'm a Computer Science student at NSUT(Delhi) passionate about building impactful software and exploring the intersection of **Artificial Intelligence** and **Full-Stack Development**.
 
 I enjoy transforming ideas into scalable applications that solve real-world problems. From designing modern web experiences to developing robust backend systems, I'm always looking for opportunities to learn, build, and improve.
 
